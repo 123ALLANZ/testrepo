@@ -1,1 +1,4 @@
 this  is a readme file for our test Project
+this project is about
+1. introduction to git
+2. getting started with github
